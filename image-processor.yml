@@ -1,3 +1,3 @@
-imageFormat:
-  - "image/gif"
-  - "image/jpeg"
+GIF: true
+JPEG: true
+WEBP: true
