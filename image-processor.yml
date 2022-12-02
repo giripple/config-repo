@@ -2,5 +2,5 @@ msg:
   - Hello silly hacks for IP!
   - Hi
 imageFormat:
-  -GIF
-  -PNG
+  - GIF
+  - PNG
