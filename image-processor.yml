@@ -1,2 +1,6 @@
-msg: Hello silly hacks for IP!,Hi
-imageFormat: GIF,PNG
+msg:
+  - Hello silly hacks for IP!
+  - Hi
+imageFormat:
+  -GIF
+  -PNG
