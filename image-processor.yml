@@ -1,3 +1,4 @@
 imageFormat:
   - "image/gif"
   - "image/jpeg"
+  - "image/webp"
